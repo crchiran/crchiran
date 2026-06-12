@@ -9,9 +9,9 @@ SysOps | DevOps | SecOps · Kubernetes · GitOps · Multi-Cloud · 🔐 Security
 
 ## 🧑‍💻 About Me
 
-Senior Infrastructure & DevOps Engineer with **12+ years** of enterprise experience designing, automating, and hardening Linux and Kubernetes environments at scale. Specialized in systems operations, CI/CD automation, GitOps, IaC, and security operations across AWS, Azure, GCP, DigitalOcean, and on-premises data centres.
+Senior Infrastructure and DevOps Engineer with 12+ years of enterprise experience managing and securing Linux systems, cloud platforms, and Kubernetes environments at scale. Proven track record in systems operations (SysOps), DevOps automation, and security hardening (SecOps/DevSecOps) across AWS, Azure, GCP, DigitalOcean, and on-premises data centres.
 
-Currently building and securing mission-critical Kubernetes infrastructure for financial services at **TMSS ICT Ltd**, Dhaka, Bangladesh.
+Core expertise: Kubernetes orchestration, GitOps (ArgoCD, FluxCD), CI/CD pipelines (Jenkins, GitHub Actions), Infrastructure as Code (Terraform, Ansible), observability (Prometheus, Grafana, ELK/EFK), and security tooling (Wazuh, Falco, Kyverno, Istio). Experienced delivering high-availability, compliance-aligned infrastructure for financial services and regulated environments.
 
 - 🔴 **Red Hat Certified Engineer (RHCE)**
 - 🏆 **MCP — Microsoft Certified Professional**
@@ -64,7 +64,7 @@ Currently building and securing mission-critical Kubernetes infrastructure for f
 | **Production Kubernetes Platform** | Designed and operated production-grade K8s across on-prem and cloud with GitOps, service mesh, observability, and security hardening | Kubernetes · ArgoCD · Istio · Prometheus |
 | **Microfinance Infrastructure** | High-availability Kubernetes platform for critical financial services with centralized account systems | K8s · Helm · Kustomize · ELK |
 | **Object Storage Platform** | S3-compatible MinIO on-premises infrastructure with HA, backup automation, and secure app integration | MinIO · Terraform · Ansible |
-| **Database HA Architecture** | MySQL/MariaDB HA with replication, clustering, automated failover, and backup strategies | MySQL · MariaDB · HAProxy |
+| **Database HA Architecture** | MySQL/MariaDB PostgreSQL HA with replication, clustering, automated failover, and backup strategies | MySQL · MariaDB · PostgreSQL HAProxy |
 | **Observability Stack** | Full-stack monitoring with Prometheus, Grafana, ELK/EFK, Loki, and centralized alerting | Prometheus · Grafana · Loki · EFK |
 | **Virtualization Platform** | Enterprise Proxmox/VMware platform with HA, VM provisioning, and resource optimization | Proxmox · VMware · Terraform |
 
