@@ -135,9 +135,10 @@ Probes:
 | 01 | **Production Kubernetes Platform** | Kubernetes · ArgoCD · FluxCD · Istio · Prometheus | `Running` ✅ |
 | 02 | **Financial Services Infrastructure** | Microfinance · Centralized Accounts · Mission-Critical K8s | `Running` ✅ |
 | 03 | **Full-Stack Observability Platform** | Prometheus · Grafana · ELK/EFK · Loki · Wazuh | `Healthy` ✅ |
-| 04 | **Database High Availability** | MySQL · MariaDB · HAProxy · Automated Failover · DR | `Replicated` ✅ |
-| 05 | **S3-Compatible Object Storage** | MinIO · Terraform · Ansible · HA · Backup Automation | `Available` ✅ |
+| 04 | **Database High Availability** | MySQL · MariaDB · PostgreSQL · HAProxy · Automated Failover · DR | `Replicated` ✅ |
+| 05 | **S3, S3-Compatible Object Storage** | S3 · MinIO · Terraform · Ansible · HA · Backup Automation | `Available` ✅ |
 | 06 | **Enterprise Virtualisation Platform** | Proxmox · VMware · Linux · IaC Automation | `Stable` ✅ |
+| 07 | **Security & Compliance Platform** | Wazuh · Falco · Kyverno · RBAC · NetworkPolicy · Pod Security Standards · Istio mTLS | `Hardened` 🔐 |
 
 ---
 
