@@ -249,6 +249,8 @@ stringData:
 
 ## 🌐 Ingress
 
+## 🌐 Ingress
+
 ```yaml
 apiVersion: networking.k8s.io/v1
 kind: Ingress
@@ -257,15 +259,17 @@ metadata:
   name: public-endpoints
 
 spec:
-
   rules:
-
     - host: github.com/crchiran
-
     - host: linkedin.com/in/chandan-richard-chiran-85a12585
-
-    - host: crchiran@gmail.com
+    - host: crchiran.dev
 ```
+
+🔗 GitHub: https://github.com/crchiran
+
+💼 LinkedIn: https://linkedin.com/in/chandan-richard-chiran-85a12585
+
+📧 Email: mailto:crchiran@gmail.com
 
 ---
 
