@@ -50,7 +50,7 @@ Core expertise: Kubernetes orchestration, GitOps (ArgoCD, FluxCD), CI/CD pipelin
 ![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?style=flat-square&logo=wazuh&logoColor=white)
 
-### Languages & Scripting
+### Languages & Scripting (basic/intermediate)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
