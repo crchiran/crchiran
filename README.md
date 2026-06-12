@@ -1,452 +1,96 @@
-# 👋 Hi, I'm Chandan Richard Chiran
+# Hi, I'm Chandan Richard Chiran 👋
 
 <p align="center">
-  <b>Senior DevOps Engineer • Platform Engineer • Cloud Infrastructure Specialist</b><br>
-  Building production-grade platforms using Kubernetes, GitOps, Cloud, Security, and Observability.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-12%2B%20Years-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-Platform%20Engineering-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitOps-ArgoCD%20%7C%20FluxCD-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Multi--Cloud-blue?style=for-the-badge" />
+Building reliable infra so things don't break at 3am 🔧<br>
+SysOps | DevOps | SecOps · Kubernetes · GitOps · Multi-Cloud · 🔐 Security hardening · Observability
 </p>
 
 ---
 
-## ☸️ Platform Engineer Manifest
+## 🧑‍💻 About Me
 
-```yaml
-apiVersion: career.chandan.dev/v1
-kind: PlatformEngineer
-metadata:
-  name: chandan-richard-chiran
-  namespace: production-infrastructure
-  location: dhaka-bangladesh
-  labels:
-    role: senior-devops-engineer
-    profile: platform-engineer
-    experience: 12-plus-years
-    industry: financial-services
-    focus: kubernetes-gitops-cloud-security
-  annotations:
-    summary: >
-      Senior Infrastructure and DevOps Engineer with strong hands-on experience
-      in Linux, Kubernetes, cloud infrastructure, GitOps, CI/CD automation,
-      infrastructure security, and observability.
+Senior Infrastructure & DevOps Engineer with **12+ years** of enterprise experience designing, automating, and hardening Linux and Kubernetes environments at scale. Specialized in systems operations, CI/CD automation, GitOps, IaC, and security operations across AWS, Azure, GCP, DigitalOcean, and on-premises data centres.
 
-spec:
-  mission:
-    - build-secure-platforms
-    - automate-infrastructure
-    - improve-reliability
-    - reduce-production-risk
-    - operate-mission-critical-systems
+Currently building and securing mission-critical Kubernetes infrastructure for financial services at **TMSS ICT Ltd**, Dhaka, Bangladesh.
 
-  currentRole:
-    company: TMSS ICT LTD
-    position: Senior Server Administrator Engineer / DevOps Engineer
-    domain:
-      - microfinance-infrastructure
-      - centralized-account-systems
-      - kubernetes-platforms
-      - financial-services
-
-  expertise:
-    platformEngineering:
-      - Kubernetes
-      - Helm
-      - Kustomize
-      - Istio
-      - Docker
-      - Podman
-      - NGINX
-      - HAProxy
-
-    cloudInfrastructure:
-      - AWS
-      - Azure
-      - GCP
-      - DigitalOcean
-      - Linode
-      - On-Premises Data Centers
-
-    gitOpsAndCICD:
-      - ArgoCD
-      - FluxCD
-      - GitHub Actions
-      - Jenkins
-      - Bitbucket Pipelines
-
-    infrastructureAsCode:
-      - Terraform
-      - Ansible
-      - CloudFormation
-
-    observability:
-      - Prometheus
-      - Grafana
-      - ELK
-      - EFK
-      - Loki
-      - AlertManager
-      - Wazuh
-
-    security:
-      - RBAC
-      - NetworkPolicies
-      - Pod Security Standards
-      - WAF
-      - Falco
-      - Kyverno
-      - Linux Hardening
-
-    databases:
-      - MySQL
-      - MariaDB
-      - MongoDB
-      - Redis
-
-    operatingSystems:
-      - RHEL
-      - CentOS
-      - Ubuntu
-      - Rocky Linux
-      - AlmaLinux
-
-status:
-  availability: production-ready
-  operatingMode: reliability-first
-  automation: enabled
-  securityPosture: hardened
-  observability: enabled
-  certifications:
-    - RHCE
-    - MCP
-```
+- 🔴 **Red Hat Certified Engineer (RHCE)**
+- 🏆 **MCP — Microsoft Certified Professional**
+- 📍 Dhaka, Bangladesh
 
 ---
 
-## 🧩 Service Definition
+## 🛠️ Tech Stack
 
-```yaml
-apiVersion: v1
-kind: Service
-metadata:
-  name: chandan-platform-engineering-service
-  labels:
-    app: platform-engineering
-    engineer: chandan-richard-chiran
-spec:
-  type: ClusterIP
-  ports:
-    - name: kubernetes
-      port: 6443
-      targetPort: platform-engineering
-    - name: gitops
-      port: 443
-      targetPort: automation
-    - name: observability
-      port: 9090
-      targetPort: reliability
-    - name: security
-      port: 9443
-      targetPort: hardening
-  selector:
-    role: senior-devops-engineer
-    focus: production-infrastructure
-```
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+### Containers & Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
 
-## 🚀 Deployment Strategy
+### GitOps & CI/CD
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-```yaml
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: production-platform-engineer
-  labels:
-    app: infrastructure
-    tier: platform
-spec:
-  replicas: 1
-  strategy:
-    type: RollingUpdate
-  selector:
-    matchLabels:
-      engineer: chandan-richard-chiran
-  template:
-    metadata:
-      labels:
-        engineer: chandan-richard-chiran
-        role: senior-platform-engineer
-    spec:
-      containers:
-        - name: platform-engineering
-          image: chandan/platform-engineer:production
-          imagePullPolicy: Always
-          ports:
-            - containerPort: 6443
-              name: kubernetes
-            - containerPort: 443
-              name: gitops
-            - containerPort: 9090
-              name: observability
-          env:
-            - name: EXPERIENCE
-              value: "12+ years"
-            - name: PRIMARY_FOCUS
-              value: "Kubernetes Platform Engineering"
-            - name: CLOUD_MODE
-              value: "Multi-Cloud"
-            - name: SECURITY_MODE
-              value: "DevSecOps"
-            - name: RELIABILITY_MODE
-              value: "Production First"
-          readinessProbe:
-            exec:
-              command:
-                - /bin/sh
-                - -c
-                - "kubectl-ready && gitops-ready && monitoring-ready"
-          livenessProbe:
-            exec:
-              command:
-                - /bin/sh
-                - -c
-                - "linux-stable && automation-enabled && alerts-green"
-```
+### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### Observability & Security
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?style=flat-square&logo=wazuh&logoColor=white)
+
+### Languages & Scripting
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
-## 🛠️ ConfigMap: Technology Stack
+## 🚀 Key Projects
 
-```yaml
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: technology-stack
-data:
-  cloud: |
-    AWS
-    Azure
-    GCP
-    DigitalOcean
-    Linode
-
-  kubernetes-platform: |
-    Kubernetes
-    Helm
-    Kustomize
-    Istio
-    Docker
-    Podman
-
-  gitops: |
-    ArgoCD
-    FluxCD
-    GitHub Actions
-    Jenkins
-    Bitbucket Pipelines
-
-  infrastructure-as-code: |
-    Terraform
-    Ansible
-    CloudFormation
-
-  monitoring-logging: |
-    Prometheus
-    Grafana
-    ELK / EFK
-    Loki
-    Wazuh
-    AlertManager
-
-  security: |
-    RBAC
-    Network Policies
-    Pod Security Standards
-    Falco
-    Kyverno
-    WAF
-    Linux Hardening
-
-  databases: |
-    MySQL
-    MariaDB
-    MongoDB
-    Redis
-```
+| Project | Description | Stack |
+|---|---|---|
+| **Production Kubernetes Platform** | Designed and operated production-grade K8s across on-prem and cloud with GitOps, service mesh, observability, and security hardening | Kubernetes · ArgoCD · Istio · Prometheus |
+| **Microfinance Infrastructure** | High-availability Kubernetes platform for critical financial services with centralized account systems | K8s · Helm · Kustomize · ELK |
+| **Object Storage Platform** | S3-compatible MinIO on-premises infrastructure with HA, backup automation, and secure app integration | MinIO · Terraform · Ansible |
+| **Database HA Architecture** | MySQL/MariaDB HA with replication, clustering, automated failover, and backup strategies | MySQL · MariaDB · HAProxy |
+| **Observability Stack** | Full-stack monitoring with Prometheus, Grafana, ELK/EFK, Loki, and centralized alerting | Prometheus · Grafana · Loki · EFK |
+| **Virtualization Platform** | Enterprise Proxmox/VMware platform with HA, VM provisioning, and resource optimization | Proxmox · VMware · Terraform |
 
 ---
 
-## 🔐 Secret: Certifications
+## 📈 Experience Timeline
 
-```yaml
-apiVersion: v1
-kind: Secret
-metadata:
-  name: professional-certifications
-type: Opaque
-stringData:
-  rhce: "Red Hat Certified Engineer"
-  mcp: "Microsoft Certified Professional"
 ```
-
----
-
-## 🏗️ Infrastructure Projects
-
-```yaml
-apiVersion: portfolio.chandan.dev/v1
-kind: ProjectList
-metadata:
-  name: featured-infrastructure-projects
-spec:
-  projects:
-    - name: Production Kubernetes Platform
-      description: >
-        Designed and operated production-grade Kubernetes environments
-        across cloud and on-premises infrastructure.
-      stack:
-        - Kubernetes
-        - ArgoCD
-        - FluxCD
-        - Istio
-        - Prometheus
-        - Grafana
-
-    - name: Financial Services Infrastructure
-      description: >
-        Built and secured infrastructure for microfinance applications,
-        centralized account systems, and mission-critical financial services.
-      stack:
-        - Kubernetes
-        - Helm
-        - Kustomize
-        - ELK
-        - Linux
-
-    - name: Object Storage Platform
-      description: >
-        Implemented S3-compatible MinIO object storage with high availability,
-        backup automation, and secure application integration.
-      stack:
-        - MinIO
-        - Terraform
-        - Ansible
-        - Linux
-
-    - name: Database High Availability
-      description: >
-        Designed MySQL and MariaDB high availability architecture with
-        replication, clustering, automated failover, and backup strategies.
-      stack:
-        - MySQL
-        - MariaDB
-        - HAProxy
-        - Backup Automation
-
-    - name: Observability Platform
-      description: >
-        Implemented centralized monitoring, logging, alerting, and security
-        visibility for production systems.
-      stack:
-        - Prometheus
-        - Grafana
-        - Loki
-        - ELK
-        - Wazuh
-```
-
----
-
-## 📈 Career Timeline
-
-```yaml
-apiVersion: career.chandan.dev/v1
-kind: Timeline
-metadata:
-  name: engineering-journey
-spec:
-  milestones:
-    - year: 2011
-      phase: IT Operations
-      focus:
-        - technical-support
-        - system-maintenance
-
-    - year: 2013
-      phase: Linux Infrastructure
-      focus:
-        - linux-administration
-        - networking
-        - server-operations
-
-    - year: 2015
-      phase: Enterprise System Administration
-      focus:
-        - production-linux
-        - web-servers
-        - databases
-        - virtualization
-
-    - year: 2021
-      phase: DevOps and Cloud Engineering
-      focus:
-        - kubernetes
-        - cloud-platforms
-        - ci-cd
-        - automation
-
-    - year: 2024
-      phase: Senior Platform Engineering
-      focus:
-        - financial-infrastructure
-        - kubernetes-platforms
-        - gitops
-        - devsecops
-```
-
----
-
-## 🧠 Engineering Principles
-
-```yaml
-apiVersion: principles.chandan.dev/v1
-kind: EngineeringPrinciples
-metadata:
-  name: reliability-first-engineering
-spec:
-  principles:
-    - automate-repetitive-work
-    - secure-by-default
-    - observe-everything
-    - document-critical-systems
-    - design-for-failure
-    - keep-platforms-simple
-    - improve-continuously
+2011 ──► IT Operations & System Administration
+2013 ──► Linux Infrastructure & Networking
+2015 ──► Production Linux SysAdmin (multi-client)
+2021 ──► DevOps · Kubernetes · Cloud Platforms
+2024 ──► Senior DevOps/SecOps · Financial Infrastructure (Present)
 ```
 
 ---
 
 ## 📫 Contact
 
-```yaml
-apiVersion: v1
-kind: Contact
-metadata:
-  name: chandan-richard-chiran
-spec:
-  email: crchiran@gmail.com
-  github: https://github.com/crchiran
-  linkedin: https://linkedin.com/in/chandan-richard-chiran-85a12585
-  location: Dhaka, Bangladesh
-```
+- 📧 crchiran@gmail.com
+- 📍 Dhaka, Bangladesh
 
 ---
 
 <p align="center">
-  <b>Building Platforms, Not Just Servers ☸️</b>
+  <img src="https://img.shields.io/badge/RHCE-Red_Hat_Certified_Engineer-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MCP-Microsoft_Certified_Professional-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
