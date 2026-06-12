@@ -63,7 +63,7 @@ Core expertise: Kubernetes orchestration, GitOps (ArgoCD, FluxCD), CI/CD pipelin
 |---|---|---|
 | **Production Kubernetes Platform** | Designed and operated production-grade K8s across on-prem and cloud with GitOps, service mesh, observability, and security hardening | Kubernetes · ArgoCD · Istio · Prometheus |
 | **Microfinance Infrastructure** | High-availability Kubernetes platform for critical financial services with centralized account systems | K8s · Helm · Kustomize · ELK |
-| **Object Storage Platform** | S3-compatible MinIO on-premises infrastructure with HA, backup automation, and secure app integration | MinIO · Terraform · Ansible |
+| **Object Storage Platform** | S3, S3-compatible MinIO on-premises infrastructure with HA, backup automation, and secure app integration | MinIO · Terraform · Ansible |
 | **Database HA Architecture** | MySQL/MariaDB, PostgreSQL HA with replication, clustering, automated failover, and backup strategies | MySQL · MariaDB · PostgreSQL · HAProxy |
 | **Observability Stack** | Full-stack monitoring with Prometheus, Grafana, ELK/EFK, Loki, and centralized alerting | Prometheus · Grafana · Loki · EFK |
 | **Virtualization Platform** | Enterprise Proxmox/VMware platform with HA, VM provisioning, and resource optimization | Proxmox · VMware · Terraform |
