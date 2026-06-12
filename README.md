@@ -9,9 +9,9 @@ SysOps | DevOps | SecOps · Kubernetes · GitOps · Multi-Cloud · 🔐 Security
 
 ## 🧑‍💻 About Me
 
-Senior Infrastructure and DevOps Engineer with 12+ years of enterprise experience managing and securing Linux systems, cloud platforms, and Kubernetes environments at scale. Proven track record in systems operations (SysOps), DevOps automation, and security hardening (SecOps/DevSecOps) across AWS, Azure, GCP, DigitalOcean, and on-premises data centres.
+Senior Infrastructure & DevOps Engineer with **12+ years** of enterprise experience designing, automating, and hardening Linux and Kubernetes environments at scale. Specialized in systems operations, CI/CD automation, GitOps, IaC, and security operations across AWS, Azure, GCP, DigitalOcean, and on-premises data centres.
 
-Core expertise: Kubernetes orchestration, GitOps (ArgoCD, FluxCD), CI/CD pipelines (Jenkins, GitHub Actions), Infrastructure as Code (Terraform, Ansible), observability (Prometheus, Grafana, ELK/EFK), and security tooling (Wazuh, Falco, Kyverno, Istio). Experienced delivering high-availability, compliance-aligned infrastructure for financial services and regulated environments.
+Currently building and securing mission-critical Kubernetes infrastructure for financial services at **TMSS ICT Ltd**, Dhaka, Bangladesh.
 
 - 🔴 **Red Hat Certified Engineer (RHCE)**
 - 🏆 **MCP — Microsoft Certified Professional**
