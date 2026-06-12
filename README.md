@@ -2,7 +2,7 @@
 
 <p align="center">
 Building reliable infra so things don't break at 3am <br>
-🔧 SysOps | DevOps | SecOps · Kubernetes · GitOps · Multi-Cloud · 🔐 Security hardening · Observability
+🔧 SysOps | DevOps | SecOps · Kubernetes · GitOps · Multi-Cloud · <br> 🔐 Security hardening · Observability
 </p>
 
 ---
