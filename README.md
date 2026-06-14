@@ -182,6 +182,13 @@ Data:
 }
 ```
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crchiran&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crchiran&layout=compact&theme=dark&hide_border=true" />
+</p>
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandan-richard-chiran-85a12585)
