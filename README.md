@@ -127,11 +127,10 @@ Probes:
 </p>
 
 ---
-
 ## `$ kubectl get statefulsets --field-selector=status=running`
 
-| # | Project | Stack | Status |
-|---|---------|-------|--------|
+| #  | Project | Stack | Status |
+|:--:|---------|-------|:------:|
 | 01 | **Production Kubernetes Platform** | Kubernetes · ArgoCD · FluxCD · Istio · Prometheus | `Running` ✅ |
 | 02 | **Financial Services Infrastructure** | Microfinance · Centralized Accounts · Mission-Critical K8s | `Running` ✅ |
 | 03 | **Full-Stack Observability Platform** | Prometheus · Grafana · ELK/EFK · Loki · Wazuh | `Healthy` ✅ |
