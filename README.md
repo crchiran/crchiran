@@ -42,7 +42,7 @@ Labels:
   location:   dhaka-bangladesh
 
 Status:       Running ✅
-Uptime:       12+ years
+Uptime:       10+ years
 Replicas:     1 (irreplaceable)
 
 Current:
