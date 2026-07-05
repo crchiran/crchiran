@@ -198,3 +198,5 @@ Data:
 <br>
 
 **☸️ Building Platforms, Not Just Servers**
+
+</div>
