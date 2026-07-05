@@ -186,7 +186,7 @@ Data:
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=crchiran&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crchiran&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=crchiran&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <br>
@@ -198,5 +198,3 @@ Data:
 <br>
 
 **☸️ Building Platforms, Not Just Servers**
-
-</div>
