@@ -127,6 +127,7 @@ Probes:
 </p>
 
 ---
+
 ## `$ kubectl get statefulsets --field-selector=status=running`
 
 | #  | Project | Stack | Status |
