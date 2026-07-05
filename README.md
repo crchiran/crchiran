@@ -185,27 +185,18 @@ Data:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crchiran&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crchiran&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=crchiran&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crchiran&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/chandan-richard-chiran-85a12585">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:crchiran@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/crchiran">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandan-richard-chiran-85a12585)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crchiran@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crchiran)
 
-<p align="center">
-  <b>☸️ Building Platforms, Not Just Servers</b>
-</p>
+<br>
+
+**☸️ Building Platforms, Not Just Servers**
+
+</div>
