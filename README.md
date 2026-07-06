@@ -30,7 +30,7 @@
 
 ---
 
-## `$ kubectl describe engineer chandan-richard-chiran`
+## `$ kubectl describe devops-engineer chandan-richard-chiran`
 
 ```yaml
 Name:         chandan-richard-chiran
