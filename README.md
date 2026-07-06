@@ -139,6 +139,7 @@ Probes:
 | 05 | **S3, S3-Compatible Object Storage** | S3 · MinIO · Terraform · Ansible · HA · Backup Automation | `Available` ✅ |
 | 06 | **Enterprise Virtualisation Platform** | Proxmox · VMware · Linux · IaC Automation | `Stable` ✅ |
 | 07 | **Security & Compliance Platform** | Wazuh · Falco · Kyverno · RBAC · NetworkPolicy · Pod Security Standards · Istio mTLS | `Hardened` 🔐 |
+| 08 | **Messaging & Event Infrastructure** | Amazon SQS · Amazon SNS · RabbitMQ · Apache Kafka | `Running` ✅ |
 
 ---
 
