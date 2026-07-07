@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Experience-12%2B%20Years-22c55e?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Experience-10%2B%20Years-22c55e?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/RHCE-Red%20Hat%20Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-58A6FF?style=for-the-badge&labelColor=0d1117" />
 </p>
